@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genetic-algorithms", "genetic-algorithms\genetic-algorithms.csproj", "{4C3BE3D8-3CBA-4396-B9CB-A3E56B2728A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-genetic-algorithms", "test-genetic-algorithms\test-genetic-algorithms.csproj", "{268A949C-1EED-4C04-A499-D27B77ED2B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C3BE3D8-3CBA-4396-B9CB-A3E56B2728A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3BE3D8-3CBA-4396-B9CB-A3E56B2728A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3BE3D8-3CBA-4396-B9CB-A3E56B2728A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3BE3D8-3CBA-4396-B9CB-A3E56B2728A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268A949C-1EED-4C04-A499-D27B77ED2B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268A949C-1EED-4C04-A499-D27B77ED2B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268A949C-1EED-4C04-A499-D27B77ED2B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268A949C-1EED-4C04-A499-D27B77ED2B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E85ABC8-9485-46DE-B232-7C81431D136C}
+	EndGlobalSection
+EndGlobal
